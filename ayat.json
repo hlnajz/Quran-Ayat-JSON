@@ -14,5 +14,709 @@
       "english": "Allah! There is no deity except Him, the Ever-Living, the Sustainer of [all] existence.",
       "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ"
     }
+  },
+  {
+    "surah": "Aal-E-Imran",
+    "ayah": 26,
+    "text": {
+      "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ",
+      "english": "Say, 'O Allah, Owner of Sovereignty, You give sovereignty to whom You will.'"
+    }
+  },
+  {
+    "surah": "An-Nisa",
+    "ayah": 1,
+    "text": {
+      "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ",
+      "english": "O mankind, fear your Lord, who created you from one soul."
+    }
+  },
+  {
+    "surah": "Al-Ma'idah",
+    "ayah": 3,
+    "text": {
+      "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي",
+      "english": "This day I have perfected for you your religion and completed My favor upon you."
+    }
+  },
+  {
+    "surah": "Al-An'am",
+    "ayah": 59,
+    "text": {
+      "arabic": "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
+      "english": "And with Him are the keys of the unseen; none knows them except Him."
+    }
+  },
+  {
+    "surah": "Al-A'raf",
+    "ayah": 31,
+    "text": {
+      "arabic": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ",
+      "english": "O children of Adam, take your adornment at every masjid."
+    }
+  },
+  {
+    "surah": "Al-Anfal",
+    "ayah": 2,
+    "text": {
+      "arabic": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ",
+      "english": "The believers are only those who, when Allah is mentioned, their hearts become fearful."
+    }
+  },
+  {
+    "surah": "At-Tawbah",
+    "ayah": 51,
+    "text": {
+      "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا",
+      "english": "Say, 'Never will we be struck except by what Allah has decreed for us.'"
+    }
+  },
+  {
+    "surah": "Yunus",
+    "ayah": 57,
+    "text": {
+      "arabic": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ",
+      "english": "O mankind, there has come to you instruction from your Lord."
+    }
+  },
+  {
+    "surah": "Hud",
+    "ayah": 6,
+    "text": {
+      "arabic": "وَمَا مِن دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا",
+      "english": "And there is no creature on earth but that upon Allah is its provision."
+    }
+  },
+  {
+    "surah": "Yusuf",
+    "ayah": 64,
+    "text": {
+      "arabic": "فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+      "english": "But Allah is the best guardian, and He is the most merciful of the merciful."
+    }
+  },
+  {
+    "surah": "Ar-Ra'd",
+    "ayah": 28,
+    "text": {
+      "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+      "english": "Unquestionably, by the remembrance of Allah hearts are assured."
+    }
+  },
+  {
+    "surah": "Ibrahim",
+    "ayah": 7,
+    "text": {
+      "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+      "english": "If you are grateful, I will surely increase you [in favor]."
+    }
+  },
+  {
+    "surah": "Al-Hijr",
+    "ayah": 9,
+    "text": {
+      "arabic": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ",
+      "english": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian."
+    }
+  },
+  {
+    "surah": "An-Nahl",
+    "ayah": 18,
+    "text": {
+      "arabic": "وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا",
+      "english": "And if you should count the favors of Allah, you could not enumerate them."
+    }
+  },
+  {
+    "surah": "Al-Isra",
+    "ayah": 23,
+    "text": {
+      "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+      "english": "And your Lord has decreed that you not worship except Him, and to parents, good treatment."
+    }
+  },
+  {
+    "surah": "Al-Kahf",
+    "ayah": 10,
+    "text": {
+      "arabic": "إِذْ أَوَى الْفِتْيَةُ إِلَى الْكَهْفِ فَقَالُوا رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً",
+      "english": "When the youths retreated to the cave and said, 'Our Lord, grant us from Yourself mercy.'"
+    }
+  },
+  {
+    "surah": "Maryam",
+    "ayah": 96,
+    "text": {
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+      "english": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection."
+    }
+  },
+  {
+    "surah": "Taha",
+    "ayah": 25,
+    "text": {
+      "arabic": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي",
+      "english": "[Moses] said, 'My Lord, expand for me my breast [with assurance].'"
+    }
+  },
+  {
+    "surah": "Al-Anbiya",
+    "ayah": 87,
+    "text": {
+      "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+      "english": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+    }
+  },
+  {
+    "surah": "Al-Hajj",
+    "ayah": 77,
+    "text": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا ارْكَعُوا وَاسْجُدُوا وَاعْبُدُوا رَبَّكُمْ",
+      "english": "O you who have believed, bow and prostrate and worship your Lord."
+    }
+  },
+  {
+    "surah": "Al-Mu'minun",
+    "ayah": 1,
+    "text": {
+      "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+      "english": "Certainly will the believers have succeeded."
+    }
+  },
+  {
+    "surah": "An-Nur",
+    "ayah": 35,
+    "text": {
+      "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+      "english": "Allah is the Light of the heavens and the earth."
+    }
+  },
+  {
+    "surah": "Al-Furqan",
+    "ayah": 63,
+    "text": {
+      "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا",
+      "english": "And the servants of the Most Merciful are those who walk upon the earth easily."
+    }
+  },
+  {
+    "surah": "Ash-Shu'ara",
+    "ayah": 89,
+    "text": {
+      "arabic": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+      "english": "The Day when there will not benefit [anyone] wealth or children, but only one who comes to Allah with a sound heart."
+    }
+  },
+  {
+    "surah": "An-Naml",
+    "ayah": 62,
+    "text": {
+      "arabic": "أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ",
+      "english": "Is He [not best] who responds to the desperate one when he calls upon Him and removes evil."
+    }
+  },
+  {
+    "surah": "Al-Qasas",
+    "ayah": 24,
+    "text": {
+      "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "english": "My Lord, indeed I am, for whatever good You would send down to me, in need."
+    }
+  },
+  {
+    "surah": "Al-Ankabut",
+    "ayah": 69,
+    "text": {
+      "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+      "english": "And those who strive for Us - We will surely guide them to Our ways."
+    }
+  },
+  {
+    "surah": "Ar-Rum",
+    "ayah": 21,
+    "text": {
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا",
+      "english": "And of His signs is that He created for you from yourselves mates."
+    }
+  },
+  {
+    "surah": "Luqman",
+    "ayah": 19,
+    "text": {
+      "arabic": "وَاغْضُضْ مِن صَوْتِكَ",
+      "english": "And lower your voice."
+    }
+  },
+  {
+    "surah": "As-Sajda",
+    "ayah": 15,
+    "text": {
+      "arabic": "إِنَّمَا يُؤْمِنُ بِآيَاتِنَا الَّذِينَ إِذَا ذُكِّرُوا بِهَا خَرُّوا سُجَّدًا",
+      "english": "Only those believe in Our verses who, when they are reminded by them, fall down in prostration."
+    }
+  },
+  {
+    "surah": "Al-Ahzab",
+    "ayah": 56,
+    "text": {
+      "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ",
+      "english": "Indeed, Allah and His angels send blessings upon the Prophet."
+    }
+  },
+  {
+    "surah": "Saba",
+    "ayah": 13,
+    "text": {
+      "arabic": "اعْمَلُوا آلَ دَاوُودَ شُكْرًا",
+      "english": "Work, O family of David, in gratitude."
+    }
+  },
+  {
+    "surah": "Fatir",
+    "ayah": 2,
+    "text": {
+      "arabic": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا",
+      "english": "Whatever Allah grants to people of mercy - none can withhold it."
+    }
+  },
+  {
+    "surah": "Ya-Sin",
+    "ayah": 58,
+    "text": {
+      "arabic": "سَلَامٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ",
+      "english": "Peace, a word from a Merciful Lord."
+    }
+  },
+  {
+    "surah": "As-Saffat",
+    "ayah": 180,
+    "text": {
+      "arabic": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ",
+      "english": "Exalted is your Lord, the Lord of might, above what they describe."
+    }
+  },
+  {
+    "surah": "Sad",
+    "ayah": 29,
+    "text": {
+      "arabic": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ",
+      "english": "[This is] a blessed Book which We have revealed to you."
+    }
+  },
+  {
+    "surah": "Az-Zumar",
+    "ayah": 53,
+    "text": {
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+      "english": "Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah.'"
+    }
+  },
+  {
+    "surah": "Ghafir",
+    "ayah": 60,
+    "text": {
+      "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+      "english": "And your Lord says, 'Call upon Me; I will respond to you.'"
+    }
+  },
+  {
+    "surah": "Fussilat",
+    "ayah": 34,
+    "text": {
+      "arabic": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
+      "english": "Repel [evil] by that [deed] which is better."
+    }
+  },
+  {
+    "surah": "Ash-Shura",
+    "ayah": 25,
+    "text": {
+      "arabic": "وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ",
+      "english": "And it is He who accepts repentance from his servants."
+    }
+  },
+  {
+    "surah": "Az-Zukhruf",
+    "ayah": 67,
+    "text": {
+      "arabic": "الْأَخِلَّاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلَّا الْمُتَّقِينَ",
+      "english": "Close friends, that Day, will be enemies to each other, except for the righteous."
+    }
+  },
+  {
+    "surah": "Ad-Dukhan",
+    "ayah": 3,
+    "text": {
+      "arabic": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةٍ مُّبَارَكَةٍ",
+      "english": "Indeed, We sent it down during a blessed night."
+    }
+  },
+  {
+    "surah": "Al-Jathiya",
+    "ayah": 21,
+    "text": {
+      "arabic": "أَمْ حَسِبَ الَّذِينَ اجْتَرَحُوا السَّيِّئَاتِ أَن نَّجْعَلَهُمْ كَالَّذِينَ آمَنُوا",
+      "english": "Or do those who commit evils think We will make them like those who have believed?"
+    }
+  },
+  {
+    "surah": "Al-Ahqaf",
+    "ayah": 13,
+    "text": {
+      "arabic": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا",
+      "english": "Indeed, those who have said, 'Our Lord is Allah' and then remained steadfast."
+    }
+  },
+  {
+    "surah": "Muhammad",
+    "ayah": 7,
+    "text": {
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ",
+      "english": "O you who have believed, if you support Allah, He will support you."
+    }
+  },
+  {
+    "surah": "Al-Fath",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "english": "Indeed, We have given you a clear conquest."
+    }
+  },
+  {
+    "surah": "Al-Hujurat",
+    "ayah": 13,
+    "text": {
+      "arabic": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ",
+      "english": "O mankind, indeed We have created you from male and female."
+    }
+  },
+  {
+    "surah": "Al-Muzzammil",
+    "ayah": 1,
+    "text": {
+      "arabic": "يَا أَيُّهَا الْمُزَّمِّلُ",
+      "english": "O you who wraps himself [in clothing]."
+    }
+  },
+  {
+    "surah": "Al-Muddathir",
+    "ayah": 1,
+    "text": {
+      "arabic": "يَا أَيُّهَا الْمُدَّثِّرُ",
+      "english": "O you who covers himself [with a garment]."
+    }
+  },
+  {
+    "surah": "Al-Qiyamah",
+    "ayah": 36,
+    "text": {
+      "arabic": "أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى",
+      "english": "Does man think that he will be left neglected?"
+    }
+  },
+  {
+    "surah": "Al-Insan",
+    "ayah": 1,
+    "text": {
+      "arabic": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ",
+      "english": "Has there [not] come upon man a period of time."
+    }
+  },
+  {
+    "surah": "Al-Mursalat",
+    "ayah": 50,
+    "text": {
+      "arabic": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+      "english": "Then in what statement after it will they believe?"
+    }
+  },
+  {
+    "surah": "An-Naba",
+    "ayah": 1,
+    "text": {
+      "arabic": "عَمَّ يَتَسَاءَلُونَ",
+      "english": "About what are they asking one another?"
+    }
+  },
+  {
+    "surah": "An-Nazi'at",
+    "ayah": 46,
+    "text": {
+      "arabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+      "english": "It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof."
+    }
+  },
+  {
+    "surah": "Abasa",
+    "ayah": 33,
+    "text": {
+      "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+      "english": "But when there comes the Deafening Blast."
+    }
+  },
+  {
+    "surah": "At-Takwir",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ",
+      "english": "When the sun is wrapped up [in darkness]."
+    }
+  },
+  {
+    "surah": "Al-Infitar",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِذَا السَّمَاءُ انفَطَرَتْ",
+      "english": "When the sky breaks apart."
+    }
+  },
+  {
+    "surah": "Al-Mutaffifin",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "english": "Woe to those who give less [than due]."
+    }
+  },
+  {
+    "surah": "Al-Inshiqaq",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِذَا السَّمَاءُ انشَقَّتْ",
+      "english": "When the sky has split [open]."
+    }
+  },
+  {
+    "surah": "Al-Buruj",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+      "english": "By the sky containing great stars."
+    }
+  },
+  {
+    "surah": "At-Tariq",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالسَّمَاءِ وَالطَّارِقِ",
+      "english": "By the sky and the night comer."
+    }
+  },
+  {
+    "surah": "Al-A'la",
+    "ayah": 1,
+    "text": {
+      "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+      "english": "Exalt the name of your Lord, the Most High."
+    }
+  },
+  {
+    "surah": "Al-Ghashiyah",
+    "ayah": 1,
+    "text": {
+      "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+      "english": "Has there reached you the report of the Overwhelming [event]?"
+    }
+  },
+  {
+    "surah": "Al-Fajr",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالْفَجْرِ",
+      "english": "By the dawn."
+    }
+  },
+  {
+    "surah": "Al-Balad",
+    "ayah": 1,
+    "text": {
+      "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "english": "I swear by this city, Makkah."
+    }
+  },
+  {
+    "surah": "Ash-Shams",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالشَّمْسِ وَضُحَاهَا",
+      "english": "By the sun and its brightness."
+    }
+  },
+  {
+    "surah": "Al-Lail",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+      "english": "By the night when it covers."
+    }
+  },
+  {
+    "surah": "Ad-Duha",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالضُّحَىٰ",
+      "english": "By the morning brightness."
+    }
+  },
+  {
+    "surah": "At-Tin",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالتِّينِ وَالزَّيْتُونِ",
+      "english": "By the fig and the olive."
+    }
+  },
+  {
+    "surah": "Al-Alaq",
+    "ayah": 1,
+    "text": {
+      "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "english": "Recite in the name of your Lord who created."
+    }
+  },
+  {
+    "surah": "Al-Qadr",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+      "english": "Indeed, We sent the Qur'an down during the Night of Decree."
+    }
+  },
+  {
+    "surah": "Al-Bayyina",
+    "ayah": 1,
+    "text": {
+      "arabic": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ",
+      "english": "Those who disbelieved among the People of the Scripture."
+    }
+  },
+  {
+    "surah": "Az-Zalzalah",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "english": "When the earth is shaken with its [final] earthquake."
+    }
+  },
+  {
+    "surah": "Al-Adiyat",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
+      "english": "By the racers, panting."
+    }
+  },
+  {
+    "surah": "Al-Qari'a",
+    "ayah": 1,
+    "text": {
+      "arabic": "الْقَارِعَةُ",
+      "english": "The Striking Calamity."
+    }
+  },
+  {
+    "surah": "At-Takathur",
+    "ayah": 1,
+    "text": {
+      "arabic": "أَلْهَاكُمُ التَّكَاثُرُ",
+      "english": "Competition in [worldly] increase diverts you."
+    }
+  },
+  {
+    "surah": "Al-Asr",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَالْعَصْرِ",
+      "english": "By time."
+    }
+  },
+  {
+    "surah": "Al-Humazah",
+    "ayah": 1,
+    "text": {
+      "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "english": "Woe to every scorner and mocker."
+    }
+  },
+  {
+    "surah": "Al-Fil",
+    "ayah": 1,
+    "text": {
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "english": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?"
+    }
+  },
+  {
+    "surah": "Quraysh",
+    "ayah": 1,
+    "text": {
+      "arabic": "لِإِيلَافِ قُرَيْشٍ",
+      "english": "For the accustomed security of the Quraysh."
+    }
+  },
+  {
+    "surah": "Al-Ma'un",
+    "ayah": 1,
+    "text": {
+      "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "english": "Have you seen the one who denies the Recompense?"
+    }
+  },
+  {
+    "surah": "Al-Kawthar",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "english": "Indeed, We have granted you, [O Muhammad], al-Kawthar."
+    }
+  },
+  {
+    "surah": "Al-Kafirun",
+    "ayah": 1,
+    "text": {
+      "arabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "english": "Say, 'O disbelievers.'"
+    }
+  },
+  {
+    "surah": "An-Nasr",
+    "ayah": 1,
+    "text": {
+      "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "english": "When the victory of Allah has come and the conquest."
+    }
+  },
+  {
+    "surah": "Al-Masad",
+    "ayah": 1,
+    "text": {
+      "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "english": "May the hands of Abu Lahab be ruined, and ruined is he."
+    }
+  },
+  {
+    "surah": "Al-Ikhlas",
+    "ayah": 1,
+    "text": {
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "english": "Say, 'He is Allah, [who is] One.'"
+    }
+  },
+  {
+    "surah": "Al-Falaq",
+    "ayah": 1,
+    "text": {
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "english": "Say, 'I seek refuge in the Lord of daybreak.'"
+    }
+  },
+  {
+    "surah": "An-Nas",
+    "ayah": 1,
+    "text": {
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "english": "Say, 'I seek refuge in the Lord of mankind.'"
+    }
   }
 ]
